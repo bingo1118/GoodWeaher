@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <string name="startSevice">启动服务</string>
+    <string name="stopService">停止服务</string>
+    <string name="bindSevice">绑定服务</string>
+    <string name="unbindService">解绑服务</string>
+</resources>

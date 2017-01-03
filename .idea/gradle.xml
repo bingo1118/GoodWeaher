@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="U:\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcastbest" />
+            <option value="$PROJECT_DIR$/fragmentbest" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/goodweather" />
+            <option value="$PROJECT_DIR$/servicebestpractice" />
+            <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/viewtest" />
+            <option value="$PROJECT_DIR$/webviewtest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
